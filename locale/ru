@@ -1,0 +1,63 @@
+[space-location-name]
+arboria=Арбория
+
+[space-location-description]
+arboria=Луна Глебы без поверхностных источникв воды или фауны. Подземные воды и богатые минералами почвы привели к тому, что планета заполнена деревьями.
+
+[entity-name]
+red-baobab=Красный баобаб
+iron-willow=:Железная ива
+resin-maple=Смола клена
+water-source=Вода
+
+[resource-name]
+water-source=Вода
+
+[entity-description]
+red-baobab=Дерево без листьев и коры, богатое медью и насыщенное энергией
+iron-willow=Листья и небольшие ветки этого дерева богаты железом и серой, а его ствол буквально сделан из камня
+resin-maple=Несмотря на название, здесь нет никаких кленовых листьев. Вместо этого только пузырящаяся смола, которая крайне полезна в производстве  
+
+[item-name]
+copper-dust=Copper dust
+hollowwood=Hollowwood
+iron-dust=Iron dust
+iron-twig=Iron twig
+redwood=Redwood
+redwood-powder=Redwood powder
+resin=Resin
+stone-dust=Stone dust
+sulfuric-powder=Sulfuric powder
+arboric-science-pack=Arboric science pack
+red-baobab-seed=Red baobab seed
+resin-maple-seed=Resin maple seed
+iron-willow-seed=Iron willow seed
+
+[recipe-name]
+sulfuric-powder-and-iron-dust=Iron twig crushing
+stone-dust-compression=Stone dust compression
+plastic-from-resin-and-hollowwood=Resinbrew compression
+sulfur-from-sulfuric-powder-and-resin=Sulfur crystal formation
+rocket-fuel-from-resin=Arboric rocket fuel production
+copper-dust-from-redwood-powder=Redwood powder filtration
+lubricant-from-resin=Lubricant from resin
+iron-ore-crushing=Iron ore crushing
+copper-ore-crushing=Copper ore crushing
+iron-dust-melting=Iron dust melting
+copper-dust-melting=Copper dust melting
+
+[fluid-name]
+resinbrew=Resinbrew
+
+[technology-name]
+moon-discovery-arboria=Moon discovery Arboria
+red-baobab-processing=Red baobab processing
+resin-maple-processing=Resin maple processing
+iron-willow-processing=Iron willow processing
+arboric-science-pack=Arboric science pack
+copper-dust-metallurgy=Copper dust metallurgy
+iron-dust-metallurgy=Iron dust metallurgy
+
+[technology-description]
+copper-dust-metallurgy=Allows to crush [item=iron-ore] and then melt it into [fluid=molten-iron] for greater yields from the same amount of ore
+iron-dust-metallurgy=Allows to crush [item=copper-ore] and then melt it into [fluid=molten-copper] for greater yields from the same amount of ore
